@@ -5,24 +5,24 @@
 
 This repository contains the code and assets for **Virtual Human as Living Partner**, a mobile augmented‐reality (AR) system that brings a virtual human named TongTong into the user’s physical environment. Through timeline‐based state scheduling (sleep, exercise, study, eat), the system dynamically instantiates, animates and localizes the virtual human in real space. The goal is to transform the agent into a living partner that provides continuous presence, context‑aware behavior and interactive companionship on a handheld device.
 
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/MiaMao615/Virtual-Human-Living-Partner/raw/main/Virtual%20Human%20as%20Living%20Partner.mp4" type="video/mp4">
+</video>
+
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [System Architecture](#system-architecture)
 3. [Daily Activity States](#daily-activity-states)
 4. [Installation](#installation)
-5. [Running the Demo](#running-the-demo)
-6. [Usage](#usage)
-7. [Example Screenshots](#example-screenshots)
-8. [Experiments and Results](#experiments-and-results)
-9. [Citation](#citation)
-10. [License](#license)
 
 ## Project Overview
 
 **Virtual Human as Living Partner** demonstrates how AR can support persistent human‑AI coexistence. Instead of placing the agent on a 2D screen, the system uses the phone’s camera to register markers in the environment and anchor TongTong at specific locations. The user interacts with TongTong through gaze, speech and physical manipulation of objects. The system’s design is guided by four user‑experience dimensions—situational coherence, immersive interactivity, conversational naturalness and continuity of presence.
 
-To help readers understand the concept, include a short paragraph summarizing the purpose of the project and how it improves upon previous virtual companions. You may reference the abstract and introduction from your paper to highlight the motivation and goals.
+
 
 ## System Architecture
 
